@@ -3,3 +3,12 @@ body {
     background-repeat: no-repeat;
     background-size: 1450px 1000px;
 }
+
+p {
+    height: 20em;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    color:white;
+    font-size:xx-large
+}
